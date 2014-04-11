@@ -1,0 +1,219 @@
+"American Beauty - 00015.avi" (1-266) <SitUp>
+"American Beauty - 00031.avi" (1-366) <SitUp>
+"American Beauty - 00209.avi" (1-191) <StandUp>
+"American Beauty - 00222.avi" (1-116) <StandUp>
+"American Beauty - 00443.avi" (75-225) <GetOutCar>
+"American Beauty - 00450.avi" (1335-1685) <AnswerPhone>
+"American Beauty - 00706.avi" (1-91) <Kiss>
+"American Beauty - 00832.avi" (590-1370) <Kiss>
+"American Beauty - 00951.avi" (500-650) <SitUp>
+"American Beauty - 01135.avi" (1-141) <SitUp>
+"American Beauty - 01345.avi" (1-41) <SitUp>
+"American Beauty - 01358.avi" (1-115) <Kiss>
+"American Beauty - 01459.avi" (600-1100) <Kiss>
+"American Beauty - 01500.avi" (146-260) <StandUp>
+"American Beauty - 01500.avi" (440-570) <SitDown>
+"American Beauty - 01597.avi" (444-718) <StandUp>
+"American Beauty - 01733.avi" (1-315) <SitUp>
+"American Beauty - 01891.avi" (100-400) <GetOutCar>
+"American Beauty - 02037.avi" (1-400) <Kiss>
+"American Beauty - 02164.avi" (285-460) <Kiss>
+"American Beauty - 02217.avi" (1-291) <Kiss>
+"American Beauty - 02226.avi" (1-430) <Kiss>
+"American Beauty - 02273.avi" (1-116) <HugPerson>
+"American Beauty - 02279.avi" (1-116) <HugPerson>
+"Being John Malkovich - 00719.avi" (1-500) <Kiss>
+"Being John Malkovich - 01063.avi" (1-80) <AnswerPhone>
+"Being John Malkovich - 01077.avi" (1-166) <HandShake>
+"Being John Malkovich - 01293.avi" (292-369) <GetOutCar>
+"Being John Malkovich - 01293.avi" (343-444) <HugPerson>
+"Being John Malkovich - 01563.avi" (1-491) <AnswerPhone>
+"Being John Malkovich - 01887.avi" (1-191) <AnswerPhone>
+"Being John Malkovich - 02001.avi" (1-215) <Kiss>
+"Being John Malkovich - 02087.avi" (1-116) <HandShake>
+"Being John Malkovich - 02669.avi" (1-141) <HugPerson>
+"Big Fish - 00077.avi" (1-126) <Kiss>
+"Big Fish - 00674.avi" (40-110) <HandShake>
+"Big Fish - 01592.avi" (1-650) <Kiss>
+"Big Fish - 01599.avi" (1-650) <Kiss>
+"Big Fish - 01872.avi" (615-770) <SitUp>
+"Big Fish - 02254.avi" (1-113) <HugPerson>
+"Big Fish - 02465.avi" (740-1050) <AnswerPhone>
+"Big Fish - 02479.avi" (1200-1356) <HandShake>
+"Big Fish - 02479.avi" (1360-1531) <SitDown>
+"Casablanca - 00100.avi" (660-741) <HandShake>
+"Casablanca - 00250.avi" (1-41) <SitDown>
+"Casablanca - 00323.avi" (1150-1400) <SitDown>
+"Casablanca - 00434.avi" (1-91) <SitDown>
+"Casablanca - 00633.avi" (1-141) <SitDown>
+"Casablanca - 00713.avi" (1-166) <SitDown>
+"Casablanca - 00788.avi" (1-141) <StandUp>
+"Casablanca - 00832.avi" (1-41) <SitDown>
+"Casablanca - 00854.avi" (1-68) <StandUp>
+"Casablanca - 01012.avi" (1-91) <SitDown>
+"Casablanca - 01095.avi" (1-116) <SitDown>
+"Casablanca - 01168.avi" (1-291) <SitDown>
+"Casablanca - 01311.avi" (1-100) <Kiss>
+"Casablanca - 01354.avi" (1-241) <Kiss>
+"Casablanca - 01404.avi" (1-191) <Kiss>
+"Casablanca - 01407.avi" (1-150) <Kiss>
+"Casablanca - 01436.avi" (1-41) <SitDown>
+"Casablanca - 01466.avi" (1-240) <StandUp>
+"Casablanca - 01615.avi" (1-91) <HandShake>
+"Casablanca - 01659.avi" (1-116) <StandUp>
+"Casablanca - 01864.avi" (1-34) <StandUp>
+"Casablanca - 01908.avi" (1-116) <SitDown>
+"Casablanca - 01953.avi" (1-66) <SitDown>
+"Casablanca - 02153.avi" (1-120) <StandUp>
+"Casablanca - 02172.avi" (1-62) <Kiss> <StandUp>
+"Casablanca - 02214.avi" (1-116) <StandUp>
+"Casablanca - 02276.avi" (1-108) <StandUp>
+"Casablanca - 02354.avi" (160-391) <SitDown>
+"Casablanca - 02357.avi" (1-116) <SitDown>
+"Casablanca - 02382.avi" (1-141) <Kiss>
+"Casablanca - 02393.avi" (1-200) <Kiss>
+"Casablanca - 02497.avi" (1-170) <Kiss>
+"Casablanca - 02507.avi" (1-116) <SitDown>
+"Casablanca - 02680.avi" (1-116) <SitDown>
+"Casablanca - 02722.avi" (1-116) <HandShake> <StandUp>
+"Casablanca - 02858.avi" (1-291) <AnswerPhone>
+"Casablanca - 02886.avi" (205-416) <GetOutCar>
+"Casablanca - 03025.avi" (1-141) <AnswerPhone>
+"Crying Game, The - 00900.avi" (650-856) <GetOutCar>
+"Crying Game, The - 01007.avi" (1-105) <SitDown>
+"Crying Game, The - 01079.avi" (1-137) <SitDown>
+"Crying Game, The - 01296.avi" (1-260) <Kiss>
+"Crying Game, The - 01315.avi" (1-100) <Kiss>
+"Crying Game, The - 01429.avi" (1-113) <SitDown>
+"Crying Game, The - 01463.avi" (1-520) <Kiss>
+"Crying Game, The - 01549.avi" (250-320) <SitDown>
+"Crying Game, The - 01600.avi" (1-420) <Kiss> <SitDown>
+"Crying Game, The - 01600.avi" (460-593) <SitUp>
+"Crying Game, The - 01603.avi" (1-100) <SitUp>
+"Crying Game, The - 01603.avi" (570-650) <StandUp>
+"Crying Game, The - 01603.avi" (650-760) <Kiss>
+"Crying Game, The - 01615.avi" (1-50) <StandUp>
+"Crying Game, The - 01780.avi" (1-50) <StandUp>
+"Crying Game, The - 01835.avi" (1-50) <Kiss>
+"Crying Game, The - 01905.avi" (1-353) <Kiss>
+"Crying Game, The - 01989.avi" (1-185) <Kiss>
+"Crying Game, The - 02201.avi" (1-250) <GetOutCar>
+"Crying Game, The - 02262.avi" (1-257) <SitDown>
+"Crying Game, The - 02307.avi" (1-281) <SitDown>
+"Crying Game, The - 02408.avi" (1169-1570) <GetOutCar>
+"Crying Game, The - 02420.avi" (1-140) <Kiss>
+"Crying Game, The - 02512.avi" (1-65) <StandUp>
+"Crying Game, The - 02515.avi" (189-300) <Kiss>
+"Crying Game, The - 02515.avi" (431-520) <SitDown>
+"Crying Game, The - 02518.avi" (1-120) <SitDown>
+"Crying Game, The - 02598.avi" (1-80) <StandUp>
+"Crying Game, The - 02775.avi" (1-175) <SitDown>
+"Double Indemnity - 00211.avi" (1-65) <SitDown>
+"Double Indemnity - 00725.avi" (1-448) <Kiss>
+"Double Indemnity - 00831.avi" (1-161) <HugPerson>
+"Double Indemnity - 00842.avi" (1-137) <StandUp>
+"Double Indemnity - 00932.avi" (1-113) <StandUp>
+"Double Indemnity - 01330.avi" (1-89) <AnswerPhone>
+"Double Indemnity - 01336.avi" (1-89) <AnswerPhone>
+"Double Indemnity - 01442.avi" (1-113) <GetOutCar>
+"Double Indemnity - 01461.avi" (1-30) <AnswerPhone> <SitDown>
+"Double Indemnity - 01466.avi" (1-137) <AnswerPhone> <SitDown>
+"Double Indemnity - 01549.avi" (400-1280) <GetOutCar>
+"Double Indemnity - 01598.avi" (1-113) <Kiss>
+"Double Indemnity - 01605.avi" (1-137) <Kiss>
+"Double Indemnity - 01727.avi" (1-209) <Kiss>
+"Double Indemnity - 01824.avi" (1-89) <SitDown>
+"Double Indemnity - 01878.avi" (1-113) <StandUp>
+"Double Indemnity - 01977.avi" (1-137) <StandUp>
+"Double Indemnity - 02140.avi" (1-30) <Kiss>
+"Double Indemnity - 02143.avi" (130-190) <StandUp>
+"Double Indemnity - 02176.avi" (100-200) <SitDown>
+"Double Indemnity - 02218.avi" (80-305) <SitDown>
+"Double Indemnity - 02349.avi" (1-57) <AnswerPhone>
+"Double Indemnity - 02470.avi" (1-514) <SitDown>
+"Double Indemnity - 02560.avi" (1-256) <SitDown>
+"Double Indemnity - 02580.avi" (1100-1300) <SitDown>
+"Double Indemnity - 02679.avi" (1-281) <HugPerson>
+"Double Indemnity - 02758.avi" (1-137) <StandUp>
+"Forrest Gump - 00091.avi" (1-88) <StandUp>
+"Forrest Gump - 00174.avi" (90-137) <SitDown>
+"Forrest Gump - 00267.avi" (1-185) <SitDown>
+"Forrest Gump - 00444.avi" (1-89) <HugPerson>
+"Forrest Gump - 00613.avi" (1-113) <StandUp>
+"Forrest Gump - 00641.avi" (1-41) <GetOutCar>
+"Forrest Gump - 00729.avi" (1-304) <HugPerson>
+"Forrest Gump - 00734.avi" (1-257) <Kiss> <HugPerson>
+"Forrest Gump - 00771.avi" (39-122) <HandShake>
+"Forrest Gump - 00776.avi" (1-113) <HandShake>
+"Forrest Gump - 00785.avi" (1-89) <HandShake>
+"Forrest Gump - 00813.avi" (1-89) <HandShake>
+"Forrest Gump - 00860.avi" (1-89) <HandShake>
+"Forrest Gump - 00981.avi" (1-45) <SitDown>
+"Forrest Gump - 00981.avi" (46-72) <StandUp>
+"Forrest Gump - 01056.avi" (122-275) <SitDown>
+"Forrest Gump - 01056.avi" (300-449) <HugPerson>
+"Forrest Gump - 01134.avi" (1-40) <SitDown>
+"Forrest Gump - 01134.avi" (41-113) <StandUp>
+"Forrest Gump - 01137.avi" (1-133) <SitDown>
+"Forrest Gump - 01170.avi" (1-65) <StandUp>
+"Forrest Gump - 01202.avi" (80-113) <SitDown>
+"Forrest Gump - 01274.avi" (1-160) <StandUp>
+"Forrest Gump - 01277.avi" (1-70) <StandUp>
+"Forrest Gump - 01350.avi" (24-89) <StandUp>
+"Forrest Gump - 01477.avi" (246-360) <SitUp>
+"Forrest Gump - 01510.avi" (79-137) <HandShake>
+"Forrest Gump - 01692.avi" (1-305) <StandUp>
+"Forrest Gump - 01778.avi" (1-266) <HugPerson>
+"Forrest Gump - 01802.avi" (153-233) <HandShake>
+"Forrest Gump - 01805.avi" (1-113) <SitDown>
+"Forrest Gump - 01963.avi" (130-300) <Kiss>
+"Forrest Gump - 01973.avi" (1-113) <Kiss> <HugPerson>
+"Forrest Gump - 02182.avi" (1020-1300) <SitDown>
+"Forrest Gump - 02202.avi" (1-89) <HandShake>
+"Forrest Gump - 02495.avi" (1-89) <Kiss> <StandUp>
+"Forrest Gump - 02518.avi" (1-500) <Kiss>
+"Forrest Gump - 02855.avi" (1-113) <HandShake>
+"Forrest Gump - 02862.avi" (1-35) <HandShake>
+"Forrest Gump - 02862.avi" (1-100) <Kiss>
+"Forrest Gump - 02971.avi" (1-209) <StandUp>
+"I Am Sam - 00859.avi" (1-40) <StandUp>
+"I Am Sam - 01870.avi" (1-116) <AnswerPhone>
+"Independence Day - 00087.avi" (100-305) <AnswerPhone>
+"Independence Day - 00172.avi" (50-137) <AnswerPhone>
+"Independence Day - 00216.avi" (1-41) <StandUp>
+"Independence Day - 00722.avi" (1-72) <StandUp>
+"Independence Day - 00734.avi" (48-84) <StandUp>
+"Independence Day - 00806.avi" (28-120) <AnswerPhone>
+"Independence Day - 01132.avi" (1-185) <AnswerPhone>
+"Independence Day - 01698.avi" (50-140) <StandUp>
+"Independence Day - 02066.avi" (1-65) <HandShake>
+"Independence Day - 02241.avi" (1-113) <StandUp>
+"Independence Day - 02387.avi" (1-229) <Kiss> <HugPerson>
+"Independence Day - 02763.avi" (1-190) <HugPerson>
+"Independence Day - 02774.avi" (1-233) <HugPerson>
+"Independence Day - 03196.avi" (2000-2130) <HugPerson>
+"Godfather, The - 00068.avi" (1-100) <Kiss>
+"Godfather, The - 00717.avi" (1-241) <AnswerPhone>
+"Godfather, The - 00761.avi" (120-241) <AnswerPhone>
+"Godfather, The - 00957.avi" (40-141) <AnswerPhone>
+"Godfather, The - 00987.avi" (1-100) <StandUp>
+"Godfather, The - 01476.avi" (540-692) <GetOutCar>
+"Godfather, The - 01566.avi" (10-90) <Kiss>
+"Godfather, The - 02125.avi" (100-191) <SitUp> <StandUp>
+"Godfather, The - 02650.avi" (150-240) <HandShake>
+"Godfather, The - 02650.avi" (210-480) <GetOutCar>
+"Godfather, The - 02663.avi" (84-141) <Kiss>
+"Godfather, The - 02814.avi" (100-491) <HugPerson>
+"Godfather, The - 02819.avi" (575-816) <HugPerson> <Kiss>
+"Pulp Fiction - 00134.avi" (1-119) <StandUp>
+"Pulp Fiction - 00630.avi" (207-249) <HugPerson>
+"Pulp Fiction - 01406.avi" (1-249) <HandShake>
+"Pulp Fiction - 01870.avi" (1-67) <Kiss>
+"Pulp Fiction - 02081.avi" (210-330) <AnswerPhone>
+"Raising Arizona - 00349.avi" (1-15) <Kiss>
+"Raising Arizona - 00729.avi" (1-91) <StandUp>
+"Raising Arizona - 01432.avi" (1-216) <GetOutCar>
+"Raising Arizona - 01874.avi" (1-116) <AnswerPhone>
+"Raising Arizona - 02050.avi" (1-91) <HugPerson>
+"Raising Arizona - 02153.avi" (1-166) <StandUp> <HugPerson>
+"Raising Arizona - 02414.avi" (950-1060) <SitDown>
