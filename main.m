@@ -12,12 +12,15 @@ tic
 total = 28;
 % note 20 are train videos and 8 are test videos
 
-%STIP('holly_hand_');
-%fprintf('Completed STIP class 1 %d\n',i);
+STIP('holly_hand_');
+% This step computes the Spatio Temporal Interest Points
+fprintf('Completed STIP class 1 %d\n',i);
 
-%STIP('holly_phone_');
-%fprintf('Completed STIP class 2 %d\n',i);
+STIP('holly_phone_');
+fprintf('Completed STIP class 2 %d\n',i);
 
+
+% This step computes the video frames of all the videos from "handshaking"
 for i=1:total
     saving_video(i,'holly_hand_');
     fprintf('Completed Saving class 1 %d\n',i);
@@ -27,6 +30,9 @@ for i=1:total
     fprintf('Completed HOG class 1 %d\n',i);
 end
 
+
+% This step computes the video frames of all the videos from "Talking on a
+% phone class"
 for i=1:total
     saving_video(i,'holly_phone_');
     fprintf('Completed Saving class 2 %d\n',i);

@@ -1,3 +1,5 @@
+% Helper File
+
 files = dir('*.avi');
 % Loop through each
 for id = 1:length(files)

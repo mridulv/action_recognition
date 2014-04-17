@@ -1,9 +1,12 @@
+% This file is used to construct the single class histogram model for each
+% of the class
+
 clc;
 clear;
 
 %load('clustering_information.mat');
 
-class = 'hc_';
+class = 'holly_hand_';
 
 points = zeros(1,50);
 points_2 = zeros(1,50);
@@ -11,7 +14,10 @@ group = [];
 
 points2 = [];
 
-for i=1:40
+
+% This portion construts the single class histogram model for handshaking
+% class
+for i=1:20
     str = [['HIST/',class],num2str(i)];
     fprintf('total out of %d\n',i);
     str = [str,'.mat'];
@@ -21,9 +27,12 @@ end
 
 points = points/norm(points);
 
-class = 'jog_';
+class = 'holly_phone_';
 
-for i=1:40
+
+% This portion constructs the single class histogram model for "talking on
+% a phone" class
+for i=1:20
     str = [['HIST/',class],num2str(i)];
     fprintf('total out of %d\n',i);
     str = [str,'.mat'];
@@ -34,9 +43,12 @@ end
 points_2 = points_2/norm(points_2);
 
 val_final = [];
-class = 'hc_';
+class = 'holly_hand_';
 
-for i=41:50
+
+% This portion finds the class for each of the test videos given each class
+% single class histogram model origianlly belonging to handshake class.
+for i=21:28
     str = [['HIST/',class],num2str(i)];
     fprintf('total out of %d\n',i);
     str = [str,'.mat'];
@@ -49,9 +61,12 @@ for i=41:50
     end
 end
 
-class= 'jog_';
+class= 'holly_phone_';
 
-for i=41:50
+% This portion finds the class for each of the test videos given each class
+% single class histogram model origianlly belonging to "talking on a phone
+% class"
+for i=21:28
     str = [['HIST/',class],num2str(i)];
     fprintf('total out of %d\n',i);
     str = [str,'.mat'];

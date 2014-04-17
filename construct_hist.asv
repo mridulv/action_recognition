@@ -4,12 +4,12 @@
 clc;
 clear;
 
-% Loading the cluster centers
 load('clustering_information.mat');
 
-% Constructing the Histogram for class handshake
 class = 'holly_hand_';
 
+
+% 
 for i=1:28
     str = [['HOG/',class],num2str(i)];
     fprintf('total out of %d\n',i);
@@ -33,8 +33,6 @@ for i=1:28
 end
 
 
-% Constructing the Histogram of each video belonging to the "Talking on a
-% phone class"
 class = 'holly_phone_';
 
 for i=1:28
